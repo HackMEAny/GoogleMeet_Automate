@@ -1,3 +1,3 @@
-# GoogleMeet_Automate2
+# GoogleMeet_Automate
 
 JUST DOWNLOAD AND FORGET CLASS ATTENDANCE
