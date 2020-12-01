@@ -5,4 +5,5 @@
 - Install dependencies by `pip3 install -r requirements.txt`
 - Modify the informations in the `GoogleMeet.py`
 - And run the python script `GoogleMeet.py` in cmd/terminal as ` python3 GoogleMeet.py`
-<img src ="./gif/demo.gif">
+<img src ="./gif/demo.gif"><br>
+# ENJOY!!!
